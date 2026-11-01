@@ -1,0 +1,4 @@
+div {
+  transform: rotate(45deg); /* rotateZ(45deg) と等価 */
+  background-color: pink;
+}
